@@ -5,7 +5,7 @@
 
 Ensured 100% QA coverage on financial and healthcare datasets by validating monthly, quarterly, and yearly loads.
 
-Performed data quality assurance on reports like QALR, HALR, rosters, and finance extracts.
+Performed data quality assurance on reports like rosters, and finance extracts.
 
 Used Excel, SAS, and SQL to identify discrepancies and maintain data accuracy.
 
